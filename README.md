@@ -12,6 +12,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -19,7 +20,7 @@
   <img alt="java" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-   <img alt="java" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
+   <img alt="java" src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <!-- Social Section -->
