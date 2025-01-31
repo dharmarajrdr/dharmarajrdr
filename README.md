@@ -18,9 +18,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-   <img alt="java" src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/Gitlab-FC6D27?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
 <!-- Social Section -->
