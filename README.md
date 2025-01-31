@@ -4,7 +4,7 @@
 - 💼 **Full Stack Developer** at [Zoho Corporation](https://zoho.com) with 3 years of experience.
 - 🌱 **Learning**: React, Spring Boot, Distributed Systems, and Advanced System Design.
 - ⚡ **Fun Fact**: I love to optimise code and solve problems (Ranked Top 100 at HackWithInfy).
-- 📰 View my **[Portfolio](https://dharmaraj-rathinavel.netlify.app/)** and **[Resume](https://github.com/dharmarajrdr/dharmarajrdr/blob/main/Dharmaraj_SDE2.pdf)**
+- 📰 View my **[Portfolio](https://dharmaraj-rathinavel.netlify.app/)**.
 
 <!-- Skills section -->
 <h4>I code with</h4>
