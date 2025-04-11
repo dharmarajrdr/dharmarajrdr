@@ -1,7 +1,7 @@
 <!-- Title Section -->
 <h3>👋 Welcome to my GitHub!</h3>
 
-- 💼 **Full Stack Developer** at [Zoho Corporation](https://zoho.com) with 3 years of experience.
+- 💼 **Backend Developer** at [Zoho Corporation](https://zoho.com) with 3 years of experience.
 - 🌱 **Learning**: Spring Boot, Distributed Systems, and Advanced System Design.
 - ⚡ **Fun Fact**: I love to optimise code and solve problems (Ranked Top 100 at HackWithInfy).
 - 📰 View my **[Portfolio](https://dharmaraj-rathinavel.netlify.app/)**.
