@@ -1,7 +1,7 @@
 <!-- Title Section -->
 <h3>👋 Welcome to my GitHub!</h3>
 
-- 💼 **Backend Developer** at [Zoho Corporation](https://zoho.com) with 3+ years of experience.
+- 💼 **Software Engineer** at [PayPal](https://paypal.com) with 3+ years of experience.
 - 🌱 **Learning**: Spring Boot, Microservices, Distributed Systems, and Advanced System Design.
 - ⚡ **Fun Fact**: I love to optimise code and solve complex problems.
 - 📰 View my **[Resume](https://dharmarajrdr.github.io/dharmarajrdr/resume/dharmaraj.171215/Dharmaraj.pdf)**.
