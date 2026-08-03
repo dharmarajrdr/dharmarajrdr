@@ -21,30 +21,32 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
   <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" />
-  <br />
   <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
 </p>
 
 <!-- Social Section -->
-<h4>Social Accounts</h4>
+<h4>Social Handles</h4>
 <div> 
     <a href="https://leetcode.com/u/dharmaraj_rathinavel/" target="_blank">
         <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
-    </a>
-    <a href="mailto:dharmaraj.171215@gmail.com"> 
-        <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/dharmarajrathinavel/" target="_blank">
         <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
     <a href="https://dharmarajrathinavel.substack.com/" target="_blank">
-        <img alt="Connect on Substack" src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" />
+        <img alt="Subscribe in Substack" src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" />
+    </a>
+    <a href="mailto:dharmaraj.171215@gmail.com"> 
+        <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
     <a href="https://x.com/dharmaraj_rd" target="_blank">
-        <img alt="Connect on Substack" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
+        <img alt="Connect on X" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/dharmaraj_rathinavel" target="_blank">
         <img alt="Connect on Substack" src="https://img.shields.io/badge/-Instagram-405de6?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/dharmaraj_rathinavel" target="_blank">
+        <img alt="Check Portfolio" src="https://img.shields.io/badge/-Portfolio-f01deef?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
     </a>
 </div>
 
