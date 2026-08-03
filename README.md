@@ -1,9 +1,9 @@
 <!-- Title Section -->
 <h3>👋 Welcome to my GitHub!</h3>
 
-- 💼 **Software Engineer** at [PayPal](https://paypal.com) with 4+ years of experience.
-- 🌱 **Learning**: Spring Boot, Microservices, Distributed Systems, and Advanced System Design.
-- ⚡ **Fun Fact**: I love to optimise code and solve complex problems.
+- 💼 **Software Engineer** at [PayPal](https://paypal.com), previously worked at [Zoho](https://www.zoho.com) with 4+ years of experience.
+- 🌱 **Learning**: Distributed Systems and AI/ML.
+- ⚡ **Love to**: Build end-to-end product, optimise code and solve complex problems.
 - 📰 View my **[Resume](https://dharmarajrdr.github.io/dharmarajrdr/resume/dharmaraj.171215/Dharmaraj.pdf)**.
 
 <!-- Skills section -->
@@ -21,6 +21,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/Handlebars%20js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
   <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" />
+  <br />
+  <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
 </p>
 
 <!-- Social Section -->
@@ -35,7 +37,17 @@
     <a href="https://www.linkedin.com/in/dharmarajrathinavel/" target="_blank">
         <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
+    <a href="https://dharmarajrathinavel.substack.com/" target="_blank">
+        <img alt="Connect on Substack" src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" />
+    </a>
+    <a href="https://x.com/dharmaraj_rd" target="_blank">
+        <img alt="Connect on Substack" src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/dharmaraj_rathinavel" target="_blank">
+        <img alt="Connect on Substack" src="https://img.shields.io/badge/-Instagram-405de6?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
 </div>
 
 ---
+
 I'm glad you're here! Feel free to explore, collaborate, and connect! Let's build something awesome together! 🚀 :trophy:
