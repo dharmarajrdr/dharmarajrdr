@@ -3,8 +3,7 @@
 
 - 💼 **Software Engineer** at [PayPal](https://paypal.com), previously worked at [Zoho](https://www.zoho.com) with 4+ years of experience.
 - 🌱 **Learning**: Distributed Systems and AI/ML.
-- ⚡ **Love to**: Build end-to-end product, optimise code and solve complex problems.
-- 📰 View my **[Resume](https://dharmarajrdr.github.io/dharmarajrdr/resume/dharmaraj.171215/Dharmaraj.pdf)**.
+- ⚡ **Love to**: Build end-to-end SaaS products, optimise code and solve complex problems.
 
 <!-- Skills section -->
 <h4>I code with</h4>
@@ -45,7 +44,7 @@
     <a href="https://www.instagram.com/dharmaraj_rathinavel" target="_blank">
         <img alt="Connect on Substack" src="https://img.shields.io/badge/-Instagram-405de6?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/dharmaraj_rathinavel" target="_blank">
+    <a href="https://dharmaraj-rathinavel.work" target="_blank">
         <img alt="Check Portfolio" src="https://img.shields.io/badge/-Portfolio-f01deef?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
     </a>
 </div>
